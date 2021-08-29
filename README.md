@@ -1,4 +1,5 @@
-https://github.com/secali/Implantacion_RTU_Arduino/blob/f8837cb275974dfaa43483fa9f56f2a73ff4929a/circuito.JPG
+
+<a href="https://github.com/secali/"><img src="Implantacion_RTU_Arduino/blob/f8837cb275974dfaa43483fa9f56f2a73ff4929a/circuito.JPG"></img></a>
 
 El problema a resolver es la falta de seguridad frente a acumulación de gases o escapes de 
 gas en una nave industrial, donde se trabaja con gases CO2 constantemente y se puede llegar a 
