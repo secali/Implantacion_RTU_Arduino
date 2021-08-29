@@ -3,7 +3,7 @@ gas en una nave industrial, donde se trabaja con gases CO2 constantemente y se p
 acumular a niveles tóxicos para la salud. Usaremos los siguientes elementos, que vienen 
 descritos acontinuación.
 
-Usaremos un sensor de gas que detecte por niveles cuando hay acumulación de gas, un servo 
+Un sensor de gas que detecte por niveles cuando hay acumulación de gas, un servo 
 motor que abrirá una escotilla 45º cuando el nivel de gas sea bajo, y a 90º cuando el nivel de 
 gas sea medio.
 
